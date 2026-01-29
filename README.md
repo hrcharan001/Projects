@@ -4,8 +4,8 @@ This project is an Excel-based Monthly Work Schedule system designed to plan, tr
 
 The schedule is created for January 2026 and can be easily extended to other months with minimal changes.
 
-## Project Link
-- <a href="https://github.com/hrcharan001/Projects/blob/main/work%20schedule%20-%20project%20(self).xlsx">Link</a>
+## Project
+- <a href="https://github.com/hrcharan001/Projects/blob/main/work%20schedule%20-%20project%20(self).xlsx">Click To View</a>
 
 ## Project Objectives
 
@@ -21,3 +21,10 @@ The schedule is created for January 2026 and can be easily extended to other mon
 - Sundays can have zero shifts, helping identify planned off-days
 - Balanced distribution avoids overloading specific employees
 - Visual formatting makes workforce gaps immediately noticeable
+
+## Learning Outcomes
+
+- Practical workforce planning
+- Excel automation and validation techniques
+- Data organization and visualization
+- Real-world scheduling problem-solving
