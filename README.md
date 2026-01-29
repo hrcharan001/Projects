@@ -7,7 +7,7 @@ The schedule is created for January 2026 and can be easily extended to other mon
 ## Project
 - <a href="https://github.com/hrcharan001/Projects/blob/main/work%20schedule%20-%20project%20(self).xlsx">Click To View</a>
 
-<img width="1907" height="956" alt="work schedule SS of excel" src="https://github.com/user-attachments/assets/9b2a2ba2-211d-424f-afa5-ed3af1085d3a" />
+<img width="1868" height="636" alt="SS of Project" src="https://github.com/user-attachments/assets/f66760ab-61a0-4c8e-b4ca-1d3da9340641" />
 
 ## Project Objectives
 
