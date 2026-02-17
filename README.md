@@ -5,7 +5,7 @@ This project is an Excel-based Monthly Work Schedule system designed to plan, tr
 The schedule is created for January 2026 and can be easily extended to other months with minimal changes.
 
 ## Project
-- <a href="https://github.com/hrcharan001/Projects/blob/main/work%20schedule%20-%20project%20(self).xlsx">Click To View</a>
+- <a href="https://github.com/hrcharan001/Projects/blob/main/work%20schedule%20-%20project%20(self).xlsx">Click To View The Project</a>
 
 <img width="1868" height="636" alt="SS of Project" src="https://github.com/user-attachments/assets/f66760ab-61a0-4c8e-b4ca-1d3da9340641" />
 
